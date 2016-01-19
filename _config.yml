@@ -1,7 +1,7 @@
 name: mollydouglas
 favicon: null
 layout_spectrum: 0.8819964190479368
-typography_spectrum: 0.7994207551237196
+typography_spectrum: 0.64801
 title: Molly Douglas
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8275571155827492
+  brandStrength: 0.875
   lightness: 0.9557172984350473
   saturation: 0.8050855351611972
-  rhythmicContrast: 0.570575604448095
+  rhythmicContrast: 0.25
 purpose: []
